@@ -1,0 +1,7 @@
+site_name: Pedro Nadotti · PMA 2026.2
+site_url: https://nadoutti.github.io/pma26-pedro/
+theme:
+  name: material
+  language: pt-BR
+markdown_extensions:
+  - tables
